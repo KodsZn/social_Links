@@ -8,8 +8,7 @@ This is a solution(Personalized with my Info) to the [Social links profile chall
 -CSS
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [[](https://znaidikods.netlify.app)]
 
 ## Author
 - Frontend Mentor - [@KodsZn](https://www.frontendmentor.io/profile/KodsZn)
